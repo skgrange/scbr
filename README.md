@@ -1,4 +1,4 @@
-# **scbr**
+# **scbr**  <a href='https://github.com/skgrange/scbr'><img src='man/figures/scbr_hex_figure.png' align="right" height="131.5" /></a>
 
 ## Introduction
 
