@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**scbr** is an R package designed for O~2~-CO~2~ atmospheric partitioning and global carbon budget calculations. It provides a robust, reproducible framework to allocate carbon and oxygen changes from multi-site atmospheric monitoring networks across three primary reservoirs: the atmospheric reservoir, the net land sink, and the ocean sink, utilizing stoichiometric mass-balance principles. 
+**scbr** is an R package designed for O<sub>2</sub>-CO<sub>2</sub> atmospheric partitioning and global carbon budget calculations. It provides a robust, reproducible framework to allocate carbon and oxygen changes from multi-site atmospheric monitoring networks across three primary reservoirs: the atmospheric reservoir, the net land sink, and the ocean sink, utilizing stoichiometric mass-balance principles. 
 
 ## Installation
 
